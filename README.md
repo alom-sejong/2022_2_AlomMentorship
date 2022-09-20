@@ -8,8 +8,6 @@
 
 ### 📚 참고 자료
 
--   [깃허브 Pull requests(풀리퀘) 하는법](https://github.com/alom-sejong/2022_2_AlomMentorship/blob/main/How%20to%20pull%20request%20in%20github.pdf)
-
 1. **Fork** : Alom-Mentorship 저장소에서 오른쪽 Fork 버튼 클릭
 2. **Clone** : [Github Desktop으로 clone 해오기](https://hello-bryan.tistory.com/201)
 3. **Commit&Push** : [Github Desktop으로 commit & push 하기](https://post.naver.com/viewer/postView.nhn?volumeNo=24624153&memberNo=42458017)
@@ -33,9 +31,9 @@
 
 ### 📌 일정
 
--   [0주차 과제: 포크, 클론 및 풀리퀘스트](https://github.com/alom-sejong/2022_2_AlomMentorship/blob/main/How%20to%20pull%20request%20in%20github.pdf)
--   [1주차 과제: 안드로이드 스튜디오와 프로젝트 이해하기](https://github.com/alom-sejong/Alom-Mentorship/blob/main/1%EC%A3%BC%EC%B0%A8_%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%95%8C%EA%B8%B0.pdf)
--   [2주차 과제: 레이아웃과 위젯1](https://github.com/alom-sejong/2022_2_AlomMentorship/blob/main/2%EC%A3%BC%EC%B0%A8/2%EC%9E%A5_%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83_1.pdf)
+-   [0주차 과제: 포크, 클론 및 풀리퀘스트](https://github.com/alom-sejong/2022_2_AlomMentorship/blob/main/0%EC%A3%BC%EC%B0%A8/0%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/How%20to%20pull%20request%20in%20github.pdf)
+-   [1주차 과제: 안드로이드 스튜디오와 프로젝트 이해하기](https://github.com/alom-sejong/2022_2_AlomMentorship/blob/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/1%EC%A3%BC%EC%B0%A8_%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%95%8C%EA%B8%B0.pdf)
+-   [2주차 과제: 레이아웃과 위젯1](https://github.com/alom-sejong/2022_2_AlomMentorship/blob/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/2%EC%9E%A5_%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83_1.pdf)
 -   [3주차 과제: 레이아웃과 위젯2](https://github.com/alom-sejong/2022_2_AlomMentorship/blob/main/3%EC%A3%BC%EC%B0%A8/3%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/3%EC%A3%BC%EC%B0%A8_%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C.MD)
 -   [4주차 과제: 이벤트 처리 & 화면전환](https://github.com/alom-sejong/2022_2_AlomMentorship/blob/main/4%EC%A3%BC%EC%B0%A8/4%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/4%EC%A3%BC%EC%B0%A8_%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C.MD)
 -   [5주차 과제: 리스트뷰와 어댑터](https://github.com/alom-sejong/2022_2_AlomMentorship)
