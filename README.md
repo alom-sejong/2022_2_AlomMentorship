@@ -49,10 +49,10 @@
 | 곽재민 |:white_check_mark:|||||||||
 | 김동혁 ||||||||||
 | 김승진 |:white_check_mark:|:white_check_mark:||||||||
-| 김윤회 |:white_check_mark:|||||||||
+| 김윤회 |:white_check_mark:|:white_check_mark:||||||||
 | 김정원 ||||||||||
-| 김희원 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
-| 문한결 |:white_check_mark:|:white_check_mark:||||||||
+| 김희원 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||
+| 문한결 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 | 박민선 ||||||||||
 | 박준형 ||||||||||  
 | 박지훈 ||||||||||
@@ -70,6 +70,6 @@
 | 천동현 ||||||||||
 | 최동욱 ||||||||||
 | 최승훈 ||||||||||
-| 조호연   |:white_check_mark:|||||||||
+| 조호연   |:white_check_mark:|:white_check_mark:||||||||
 | 홍지섭 ||||||||||
 | 효정   ||||||||||
