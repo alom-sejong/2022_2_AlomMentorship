@@ -36,7 +36,7 @@
 -   [2주차 과제: 레이아웃과 위젯1](https://github.com/alom-sejong/2022_2_AlomMentorship/blob/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/2%EC%9E%A5_%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83_1.pdf)
 -   [3주차 과제: 레이아웃과 위젯2](https://github.com/alom-sejong/2022_2_AlomMentorship/blob/main/3%EC%A3%BC%EC%B0%A8/3%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/3%EC%A3%BC%EC%B0%A8_%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C.MD)
 -   [4주차 과제: 이벤트 처리 & 화면전환](https://github.com/alom-sejong/2022_2_AlomMentorship/blob/main/4%EC%A3%BC%EC%B0%A8/4%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/4%EC%A3%BC%EC%B0%A8_%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C.MD)
--   [5주차 과제: 리스트뷰와 어댑터](https://github.com/alom-sejong/2022_2_AlomMentorship)
+-   [5주차 과제: 리스트뷰와 어댑터](https://github.com/alom-sejong/2022_2_AlomMentorship/blob/main/5%EC%A3%BC%EC%B0%A8/5%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/5%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EA%B3%BC%EC%A0%9C.md)
 -   [6주차 과제: 리사이클러뷰](https://github.com/alom-sejong/2022_2_AlomMentorship)
 -   [7주차 과제: 멘토링 수료 프로젝트](https://github.com/alom-sejong/2022_2_AlomMentorship)
 
